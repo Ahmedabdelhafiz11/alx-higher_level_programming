@@ -1,4 +1,5 @@
-mport sys
+#!/usr/bin/python3
+import sys
 if __name__ == "__main__":
     n = len(sys.argv)
     sum = 0
