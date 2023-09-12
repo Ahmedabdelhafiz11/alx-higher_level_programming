@@ -1,4 +1,5 @@
-t(my_list, idx):
+#!/usr/bin/python3
+def element_at(my_list, idx):
     """
     Retrieves an element at a given index
     ...
