@@ -2,8 +2,6 @@
 """
 Defines a class Rectangle
 """
-
-
 class Rectangle
 """
 
